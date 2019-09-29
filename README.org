@@ -1,0 +1,10 @@
+#+TITLE: scribble-mode.el
+
+This file is written by Neil, from
+[[https://www.neilvandyke.org/scribble-emacs/][the page of his
+website]]. The file is under LGPLv3 as put by Neil.
+
+I put it here for 2 reasons:
+- The straight.el package manager only supports git backend, so I have
+  to have a git repo for it.
+- A git repo is also helpful as I would probably improve it.
