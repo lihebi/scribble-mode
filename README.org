@@ -8,3 +8,31 @@ I put it here for 2 reasons:
 - The straight.el package manager only supports git backend, so I have
   to have a git repo for it.
 - A git repo is also helpful as I would probably improve it.
+
+* TODO list
+
+** fill-paragraph
+
+for @item list
+
+** tab for indent
+
+** literal programming code support
+
+code highlighting, reindent code
+
+** Maybe just use drracket?
+
+Try to support scribble properly seems to be a lot of work. And I do
+not want to write elisp.
+
+So probably try to use drracket. I would add the following to Drracket
+
+*** paredit
+*** eval C-x C-e
+*** drracket performance issues
+
+On my pretty powerful laptop DrRacket in racket v7.4 is very slow in
+terms of GUI responsiveness.
+
+*** C-h k (describe-key)
